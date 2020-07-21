@@ -1,0 +1,66 @@
+ all node in 66, 22, 16, 19, 2, 1, 4, 36, 6, 10, 20,  have zero transfer in between 
+ all node in nodes 66, 22, 19, 2, 1, 4, 36, 6, 10, 20,  and nodes 39, 30, 38, 24, 58, 15, 29, 17, 13, 11,  have one transfer in between 
+ all node in nodes 66, 22, 16, 2, 1, 4, 36, 6, 10, 20,  and nodes 57, 55, 30, 38, 24, 15, 56, 29, 18, 14,  have one transfer in between 
+ all node in nodes 66, 22, 16, 19, 36, 6, 10, 20,  and nodes 61, 5, 64, 8, 65, 0, 71, 63,  have one transfer in between 
+ all node in nodes 39, 30, 38, 24, 58, 15, 29, 17, 13, 11,  and nodes 66, 22, 19, 2, 1, 4, 36, 6, 10, 20,  have one transfer in between 
+ all node in 39, 30, 38, 24, 58, 15, 16, 29, 17, 13, 11,  have zero transfer in between 
+ all node in nodes 39, 58, 16, 17, 13, 11,  and nodes 57, 55, 19, 56, 18, 14,  have one transfer in between 
+ all node in nodes 39, 30, 38, 58, 15, 16, 17, 13, 11,  and nodes 28, 32, 44, 21, 23, 35, 45, 46, 47,  have one transfer in between 
+ all node in nodes 39, 38, 24, 58, 15, 16, 29, 17, 13, 11,  and nodes 54, 37, 31, 49, 44, 51, 48, 50, 52, 67, 43,  have one transfer in between 
+ all node in nodes 39, 58, 16, 17, 13,  and nodes 57, 12, 55, 72, 56,  have one transfer in between 
+ all node in nodes 39, 38, 24, 58, 15, 16, 29, 17, 13, 11,  and nodes 5, 37, 8, 32, 65, 31, 33, 59, 70, 3,  have one transfer in between 
+ all node in nodes 39, 30, 38, 58, 15, 16, 29, 17, 13, 11,  and nodes 69, 61, 26, 25, 34, 62, 33, 23, 68, 60, 63,  have one transfer in between 
+ all node in nodes 57, 55, 30, 38, 24, 15, 56, 29, 18, 14,  and nodes 66, 22, 16, 2, 1, 4, 36, 6, 10, 20,  have one transfer in between 
+ all node in nodes 57, 55, 19, 56, 18, 14,  and nodes 39, 58, 16, 17, 13, 11,  have one transfer in between 
+ all node in 57, 55, 30, 38, 24, 15, 19, 56, 29, 18, 14,  have zero transfer in between 
+ all node in nodes 57, 55, 30, 38, 15, 19, 56, 18, 14,  and nodes 28, 32, 44, 21, 23, 35, 45, 46, 47,  have one transfer in between 
+ all node in nodes 57, 55, 38, 24, 15, 19, 56, 29, 18, 14,  and nodes 54, 37, 31, 49, 44, 51, 48, 50, 52, 67, 43,  have one transfer in between 
+ all node in nodes 19, 18, 14,  and nodes 12, 72, 11,  have one transfer in between 
+ all node in nodes 57, 55, 38, 24, 15, 19, 56, 29, 18, 14,  and nodes 5, 37, 8, 32, 65, 31, 33, 59, 70, 3,  have one transfer in between 
+ all node in nodes 57, 55, 30, 38, 15, 19, 56, 29, 18, 14,  and nodes 69, 61, 26, 25, 34, 62, 33, 23, 68, 60, 63,  have one transfer in between 
+ all node in nodes 28, 32, 44, 21, 23, 35, 45, 46, 47,  and nodes 39, 30, 38, 58, 15, 16, 17, 13, 11,  have one transfer in between 
+ all node in nodes 28, 32, 44, 21, 23, 35, 45, 46, 47,  and nodes 57, 55, 30, 38, 15, 19, 56, 18, 14,  have one transfer in between 
+ all node in 28, 32, 24, 44, 21, 23, 35, 45, 29, 46, 47,  have zero transfer in between 
+ all node in nodes 28, 32, 24, 21, 23, 35, 45, 29, 46, 47,  and nodes 54, 37, 30, 31, 49, 51, 48, 50, 52, 67, 43,  have one transfer in between 
+ all node in nodes 28, 32, 44, 21, 23, 35, 45, 46, 47,  and nodes 57, 12, 55, 30, 38, 15, 72, 56, 11,  have one transfer in between 
+ all node in nodes 28, 24, 44, 21, 23, 35, 45, 29, 46, 47,  and nodes 5, 37, 8, 65, 30, 31, 33, 59, 70, 3,  have one transfer in between 
+ all node in nodes 28, 32, 44, 21, 35, 45, 29, 46, 47,  and nodes 69, 61, 26, 25, 34, 62, 33, 68, 60, 63,  have one transfer in between 
+ all node in 54, 73, 26, 34, 9, 27, 33, 42, 53, 40, 41, 7, 43,  have zero transfer in between 
+ all node in nodes 73, 26, 34, 9, 27, 33, 42, 53, 40, 41, 7,  and nodes 37, 30, 31, 49, 44, 51, 48, 50, 52, 67,  have one transfer in between 
+ all node in nodes 54, 73, 26, 34, 9, 27, 42, 53, 40, 41, 7, 43,  and nodes 5, 37, 8, 32, 65, 30, 31, 59, 70, 3,  have one transfer in between 
+ all node in nodes 54, 73, 9, 27, 42, 53, 40, 41, 7, 43,  and nodes 61, 68, 25, 24, 62, 23, 69, 60, 63,  have one transfer in between 
+ all node in nodes 54, 37, 31, 49, 44, 51, 48, 50, 52, 67, 43,  and nodes 39, 38, 24, 58, 15, 16, 29, 17, 13, 11,  have one transfer in between 
+ all node in nodes 54, 37, 31, 49, 44, 51, 48, 50, 52, 67, 43,  and nodes 57, 55, 38, 24, 15, 19, 56, 29, 18, 14,  have one transfer in between 
+ all node in nodes 54, 37, 30, 31, 49, 51, 48, 50, 52, 67, 43,  and nodes 28, 32, 24, 21, 23, 35, 45, 29, 46, 47,  have one transfer in between 
+ all node in nodes 37, 30, 31, 49, 44, 51, 48, 50, 52, 67,  and nodes 73, 26, 34, 9, 27, 33, 42, 53, 40, 41, 7,  have one transfer in between 
+ all node in 54, 37, 30, 31, 49, 44, 51, 48, 50, 52, 67, 43,  have zero transfer in between 
+ all node in nodes 54, 37, 31, 49, 44, 51, 48, 50, 52, 67, 43,  and nodes 57, 12, 55, 38, 24, 15, 72, 56, 29, 11,  have one transfer in between 
+ all node in nodes 54, 49, 44, 51, 48, 50, 52, 67, 43,  and nodes 5, 8, 32, 65, 33, 59, 70, 3,  have one transfer in between 
+ all node in nodes 57, 12, 55, 72, 56,  and nodes 39, 58, 16, 17, 13,  have one transfer in between 
+ all node in nodes 12, 72, 11,  and nodes 19, 18, 14,  have one transfer in between 
+ all node in nodes 57, 12, 55, 30, 38, 15, 72, 56, 11,  and nodes 28, 32, 44, 21, 23, 35, 45, 46, 47,  have one transfer in between 
+ all node in nodes 57, 12, 55, 38, 24, 15, 72, 56, 29, 11,  and nodes 54, 37, 31, 49, 44, 51, 48, 50, 52, 67, 43,  have one transfer in between 
+ all node in 57, 12, 55, 30, 38, 24, 15, 72, 56, 29, 11,  have zero transfer in between 
+ all node in nodes 57, 12, 55, 38, 24, 15, 72, 56, 29, 11,  and nodes 5, 37, 8, 32, 65, 31, 33, 59, 70, 3,  have one transfer in between 
+ all node in nodes 57, 12, 55, 30, 38, 15, 72, 56, 29, 11,  and nodes 69, 61, 26, 25, 34, 62, 33, 23, 68, 60, 63,  have one transfer in between 
+ all node in nodes 5, 37, 8, 32, 65, 31, 33, 59, 70, 3,  and nodes 39, 38, 24, 58, 15, 16, 29, 17, 13, 11,  have one transfer in between 
+ all node in nodes 5, 37, 8, 32, 65, 31, 33, 59, 70, 3,  and nodes 57, 55, 38, 24, 15, 19, 56, 29, 18, 14,  have one transfer in between 
+ all node in nodes 5, 37, 8, 65, 30, 31, 33, 59, 70, 3,  and nodes 28, 24, 44, 21, 23, 35, 45, 29, 46, 47,  have one transfer in between 
+ all node in nodes 5, 37, 8, 32, 65, 30, 31, 59, 70, 3,  and nodes 54, 73, 26, 34, 9, 27, 42, 53, 40, 41, 7, 43,  have one transfer in between 
+ all node in nodes 5, 8, 32, 65, 33, 59, 70, 3,  and nodes 54, 49, 44, 51, 48, 50, 52, 67, 43,  have one transfer in between 
+ all node in nodes 5, 37, 8, 32, 65, 31, 33, 59, 70, 3,  and nodes 57, 12, 55, 38, 24, 15, 72, 56, 29, 11,  have one transfer in between 
+ all node in 5, 37, 8, 32, 65, 30, 31, 33, 59, 70, 3,  have zero transfer in between 
+ all node in nodes 5, 37, 8, 32, 65, 30, 31, 59, 70, 3,  and nodes 69, 61, 26, 25, 34, 24, 62, 23, 68, 60, 63,  have one transfer in between 
+ all node in nodes 37, 32, 30, 31, 33, 59, 70, 3,  and nodes 61, 64, 0, 71, 2, 1, 4, 63,  have one transfer in between 
+ all node in nodes 69, 61, 26, 25, 34, 62, 33, 23, 68, 60, 63,  and nodes 39, 30, 38, 58, 15, 16, 29, 17, 13, 11,  have one transfer in between 
+ all node in nodes 69, 61, 26, 25, 34, 62, 33, 23, 68, 60, 63,  and nodes 57, 55, 30, 38, 15, 19, 56, 29, 18, 14,  have one transfer in between 
+ all node in nodes 69, 61, 26, 25, 34, 62, 33, 68, 60, 63,  and nodes 28, 32, 44, 21, 35, 45, 29, 46, 47,  have one transfer in between 
+ all node in nodes 61, 68, 25, 24, 62, 23, 69, 60, 63,  and nodes 54, 73, 9, 27, 42, 53, 40, 41, 7, 43,  have one transfer in between 
+ all node in nodes 69, 61, 26, 25, 34, 62, 33, 23, 68, 60, 63,  and nodes 57, 12, 55, 30, 38, 15, 72, 56, 29, 11,  have one transfer in between 
+ all node in nodes 69, 61, 26, 25, 34, 24, 62, 23, 68, 60, 63,  and nodes 5, 37, 8, 32, 65, 30, 31, 59, 70, 3,  have one transfer in between 
+ all node in 69, 61, 26, 25, 34, 24, 62, 33, 23, 68, 60, 63,  have zero transfer in between 
+ all node in nodes 69, 26, 25, 34, 24, 62, 33, 23, 68, 60,  and nodes 5, 64, 8, 65, 0, 71, 2, 1, 4,  have one transfer in between 
+ all node in nodes 61, 5, 64, 8, 65, 0, 71, 63,  and nodes 66, 22, 16, 19, 36, 6, 10, 20,  have one transfer in between 
+ all node in nodes 61, 64, 0, 71, 2, 1, 4, 63,  and nodes 37, 32, 30, 31, 33, 59, 70, 3,  have one transfer in between 
+ all node in nodes 5, 64, 8, 65, 0, 71, 2, 1, 4,  and nodes 69, 26, 25, 34, 24, 62, 33, 23, 68, 60,  have one transfer in between 
+ all node in 61, 5, 64, 8, 65, 0, 71, 63, 2, 1, 4,  have zero transfer in between 

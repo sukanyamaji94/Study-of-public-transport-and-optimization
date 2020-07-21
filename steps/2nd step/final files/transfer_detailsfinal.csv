@@ -1,0 +1,100 @@
+all node in 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  have zero transfer in between 
+all node in nodes 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in nodes 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+No link in between route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66, 
+No link in between route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66, 
+No link in between route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66, 
+No link in between route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66, 
+No link in between route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66, 
+No link in between route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and route 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66, 
+all node in nodes 4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  and nodes4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  have one transfer in between 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  have one transfer in between 
+all node in 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have zero transfer in between 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have one transfer in between 
+No link in between route 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and route 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11, 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have one transfer in between 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have one transfer in between 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in nodes 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+No link in between route 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  and route 15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11, 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  have one transfer in between 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have zero transfer in between 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have one transfer in between 
+No link in between route 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and route 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14, 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have one transfer in between 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have one transfer in between 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in nodes 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+No link in between route 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  and route 18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14, 
+No link in between route 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and route 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23, 
+all node in nodes 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in nodes 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+all node in 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have zero transfer in between 
+No link in between route 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and route 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23, 
+all node in nodes 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and nodes49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have one transfer in between 
+all node in nodes 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and nodes12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have one transfer in between 
+all node in nodes 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in nodes 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+No link in between route 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  and route 32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23, 
+No link in between route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42, 
+No link in between route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42, 
+No link in between route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42, 
+No link in between route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42, 
+all node in 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  have zero transfer in between 
+all node in nodes 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and nodes49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have one transfer in between 
+No link in between route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42, 
+all node in nodes 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in nodes 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+No link in between route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  and route 34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42, 
+No link in between route 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and route 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48, 
+all node in nodes 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in nodes 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+all node in nodes 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and nodes32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have one transfer in between 
+all node in nodes 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and nodes34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  have one transfer in between 
+all node in 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have zero transfer in between 
+all node in nodes 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and nodes12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have one transfer in between 
+all node in nodes 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+No link in between route 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and route 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48, 
+No link in between route 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  and route 49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48, 
+No link in between route 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and route 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11, 
+all node in nodes 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in nodes 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+all node in nodes 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and nodes32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have one transfer in between 
+No link in between route 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and route 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11, 
+all node in nodes 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and nodes49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have one transfer in between 
+all node in 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have zero transfer in between 
+all node in nodes 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in nodes 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+No link in between route 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  and route 12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11, 
+No link in between route 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and route 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70, 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have one transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  have one transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes49, 51, 43, 30, 50, 37, 52, 44, 67, 54, 31, 48,  have one transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have one transfer in between 
+all node in 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have zero transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+all node in nodes 32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  and nodes4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  have one transfer in between 
+No link in between route 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and route 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23, 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes15, 24, 13, 16, 29, 17, 30, 38, 58, 39, 11,  have one transfer in between 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes18, 15, 24, 56, 57, 29, 30, 55, 38, 19, 14,  have one transfer in between 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes32, 46, 35, 24, 21, 29, 47, 44, 45, 28, 23,  have one transfer in between 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes34, 7, 53, 41, 73, 40, 43, 33, 54, 9, 27, 26, 42,  have one transfer in between 
+No link in between route 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and route 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23, 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes12, 15, 24, 56, 57, 29, 30, 55, 38, 72, 11,  have one transfer in between 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have zero transfer in between 
+all node in nodes 69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  and nodes4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  have one transfer in between 
+all node in nodes 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and nodes4, 1, 20, 36, 16, 6, 22, 2, 19, 10, 66,  have one transfer in between 
+No link in between route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1, 
+No link in between route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1, 
+No link in between route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1, 
+No link in between route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1, 
+No link in between route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1, 
+No link in between route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and route 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1, 
+all node in nodes 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and nodes32, 65, 8, 31, 59, 3, 30, 33, 37, 5, 70,  have one transfer in between 
+all node in nodes 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  and nodes69, 24, 61, 25, 63, 60, 68, 33, 62, 34, 26, 23,  have one transfer in between 
+all node in 4, 65, 0, 61, 64, 8, 63, 2, 71, 5, 1,  have zero transfer in between 
